@@ -1,3 +1,5 @@
+# This forked plugin is intended to use for my own purpose. Below was original README
+
 > For legacy python implementation, see [branch master](https://github.com/autozimu/LanguageClient-neovim/tree/master).
 
 # LanguageClient-neovim
