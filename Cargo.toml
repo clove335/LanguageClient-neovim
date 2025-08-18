@@ -4,7 +4,7 @@ version = "0.1.162"
 authors = ["Junfeng Li <autozimu@gmail.com>"]
 description = "Language Server Protocol (LSP) support for vim and neovim"
 publish = false
-edition = "2018"
+edition = "2021"
 
 [package.metadata.release]
 no-dev-version = true
